@@ -28,6 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Test
+[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/Project4.ipynb)
+[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/Project4.html) 
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awei5985/awei5985.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
