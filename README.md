@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Test
 [Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/Project4.ipynb)
-[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/Project4.html) 
+[Project HTML](https://rawgit.com/awei5985/awei5985.github.io/master/Project4.html) 
 
 
 ### Jekyll Themes
