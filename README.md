@@ -23,21 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Test
-[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/Project4.ipynb)
+[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/Final%20Project%20-%20Does%20Franchise%20Fatigue%20Exist%20in%20the%20Call%20of%20Duty%20Franchise.ipynb)
 
-[Project HTML](http://htmlpreview.github.com/?https://github.com/awei5985/awei5985.github.io/blob/master/Project4.html) 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awei5985/awei5985.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/Final%20Project%20-%20Does%20Franchise%20Fatigue%20Exist%20in%20the%20Call%20of%20Duty%20Franchise.html)
