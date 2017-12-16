@@ -6,4 +6,4 @@ Below are the files for the CMSC320 Final Project.
 
 [Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/final.ipynb)
 
-[Project HTML](http://htmlpreview.github.com/?https://github.com/awei5985/awei5985.github.io/blob/master/final.html)
+[Project HTML](http://htmlpreview.github.com/?https://github.com/awei5985/awei5985.github.io/blob/master/finalv2.html)
