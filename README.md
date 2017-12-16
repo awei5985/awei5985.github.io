@@ -1,4 +1,4 @@
-## CMSC320 Final Project
+## CMSC320 Final Project - Does Franchise Fatigue Effect the Call of Duty Video Game Franchise
 
 You can use the [editor on GitHub](https://github.com/awei5985/awei5985.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,6 +24,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ### Test
-[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/final.ipynb)
+[Project Notebook](http://htmlpreview.github.com/?https://github.com/awei5985/awei5985.github.io/blob/master/final.ipynb)
 
-[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/final.html)
+[Project HTML](http://htmlpreview.github.com/?https://github.com/awei5985/awei5985.github.io/blob/master/final.html)
