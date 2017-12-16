@@ -24,6 +24,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ### Test
-[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/Final%20Project%20-%20Does%20Franchise%20Fatigue%20Exist%20in%20the%20Call%20of%20Duty%20Franchise.ipynb)
+[Project Notebook](https://github.com/awei5985/awei5985.github.io/blob/master/final.ipynb)
 
-[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/Final%20Project%20-%20Does%20Franchise%20Fatigue%20Exist%20in%20the%20Call%20of%20Duty%20Franchise.html)
+[Project HTML](https://github.com/awei5985/awei5985.github.io/blob/master/final.html)
